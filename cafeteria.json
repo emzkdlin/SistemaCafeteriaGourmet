@@ -1,0 +1,40 @@
+{
+  "Clientes": [],
+  "Productos": [
+    {
+      "$type": "postre",
+      "TieneAzucar": true,
+      "Codigo": 1,
+      "Nombre": "Flan",
+      "Precio": 3000
+    },
+    {
+      "$type": "bebida",
+      "Tamanho": 0,
+      "Codigo": 2,
+      "Nombre": "Caf\u00E9",
+      "Precio": 3000
+    },
+    {
+      "$type": "bebida",
+      "Tamanho": 0,
+      "Codigo": 3,
+      "Nombre": "Batido de Fresa",
+      "Precio": 2200
+    },
+    {
+      "$type": "bebida",
+      "Tamanho": 2,
+      "Codigo": 4,
+      "Nombre": "Jugo de Naranja",
+      "Precio": 1500
+    },
+    {
+      "$type": "postre",
+      "TieneAzucar": true,
+      "Codigo": 5,
+      "Nombre": "Tamal de Maicena",
+      "Precio": 1500
+    }
+  ]
+}
